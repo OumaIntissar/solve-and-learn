@@ -17,6 +17,7 @@ It serves as a log of my learning journey in mastering Data Structures and Algor
 6. Sorting & Searching
 
 ## 📂 Directory Structure *starter - to be edited later*
+```
 solve-and-learn/
 │
 ├── README.md
@@ -39,15 +40,13 @@ solve-and-learn/
 │       ├── problem_a.cpp
 │       └── problem_c.cpp
 │
-├── AlgoExpert/
-│   ├── Easy/
-│   │   └── two_number_sum.py
-│   ├── Medium/
-│   │   └── longest_peak.py
-│   └── ...
-│
-└── Notes/
-    └── dynamic_programming.md
+└── AlgoExpert/
+    ├── Easy/
+    │   └── two_number_sum.py
+    ├── Medium/
+    │   └── longest_peak.py
+    └── ...
+ ```
 
 ## 🎯 Goals
 - Solve 300+ problems across platforms.
